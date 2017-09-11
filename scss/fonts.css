@@ -1,0 +1,39 @@
+/* Fonts */
+@font-face {
+  font-family: sf-ui-displaymedium;
+  src: url(../fonts/SFUIDisplay-Medium.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: sf-ui-displayregular;
+  src: url(../fonts/SFUIDisplay-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: sf-ui-displaylight;
+  src: url(../fonts/SFUIDisplay-Light.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: sf-ui-displayultralight;
+  src: url(../fonts/SFUIDisplay-Ultralight.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: sf-ui-displaythin;
+  src: url(../fonts/SFUIDisplay-Thin.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: proximanova-black;
+  src: url(../fonts/ProximaNova-Black.eot);
+  src: url("../fonts/ProximaNova-Black.woff") format("woff"), url("../fonts/ProximaNova-Black.ttf") format("truetype"), url("../fonts/ProximaNova-Black.svg#webfont") format("svg");
+  font-style: normal;
+}
+
+/*# sourceMappingURL=fonts.css.map */
